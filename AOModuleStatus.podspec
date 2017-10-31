@@ -13,7 +13,7 @@ This AOModuleStatus show success alert that make  apps look fantastic and more b
   s.source           = { :git => 'https://github.com/humza-ios/Reuseable-Frameworks.git', :tag => s.version.to_s }
  
   s.ios.deployment_target = '10.0'
-  s.source_files =  'AOModuleStatus/*.swift'
+  s.source_files =  'AOModuleStatus/*'
  
 end
 
